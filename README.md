@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
+banner="https://upload.wikimedia.org/wikipedia/commons/9/9d/Brazil%2C_ox_carts_and_truck_loaded_with_yerba_mate_on_street_in_Ponta_Grossa.jpg"
        author="Lucas Eduardo Mertehikian"
        layout="vertical">
 
