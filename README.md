@@ -2,7 +2,6 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       source-image="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
        author="Lucas Eduardo Mertehikian"
        layout="vertical">
