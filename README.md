@@ -13,4 +13,4 @@ banner="https://upload.wikimedia.org/wikipedia/commons/c/c8/Ilex_Paraguariensis_
 <param ve-entity eid="Q414" title="Argentina">
 <param ve-entity eid="Q77" title="Uruguay">
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
-
+<param ve-entity eid="Q210377" title="gaucho">
